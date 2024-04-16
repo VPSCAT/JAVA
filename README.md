@@ -2,7 +2,7 @@
 ```bash
 https://www.oracle.com/pe/java/technologies/downloads/
 ```
-### 🌼 IMPORTAR EL ARCHIVO RAR EN NETBEANS 🌼
+### 🌼 IMPORTAR EL ARCHIVO RAR EN EL NETBEANS 🌼
 ```bash
 CProyecto01.rar 
 ```
