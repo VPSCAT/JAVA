@@ -13,6 +13,10 @@ https://www.oracle.com/pe/java/technologies/downloads/
 ```
 ### 🌼 IMPORTAR EL ARCHIVO RAR EN EL NETBEANS 🌼
 ```bash
-CProyecto01.rar 
+ACTIVIDAD 1 -> CProyecto01.rar  
+ACTIVIDAD 2 -> CSemana02.rar 16/04/2024
+ACTIVIDAD 3 -> 21/05/2024
+ACTIVIDAD 4 -> No disponible
+ACTIVIDAD 5 -> No disponible
 ```
 
