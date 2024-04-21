@@ -16,7 +16,7 @@ https://www.oracle.com/pe/java/technologies/downloads/
 -----------------------------------------
 ACTIVIDAD 1 -> CProyecto01 
 ACTIVIDAD 2 -> CSemana02 16/04/2024
-ACTIVIDAD 3 -> 21/05/2024
+ACTIVIDAD 3 -> CSemana03 21/05/2024
 ACTIVIDAD 4 -> No disponible
 ACTIVIDAD 5 -> No disponible
 -----------------------------------------
